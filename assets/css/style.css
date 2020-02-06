@@ -51,7 +51,13 @@ h6 {
     color: #777777;
     width: 100%;
   }
+.thumbnailmain {
+  float: left;
+margin: 5px;
+padding: 3px;
 
+
+}
   .footer {
 position: relative;
 height: 200px;
